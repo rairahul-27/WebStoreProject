@@ -1,1 +1,1 @@
-# WebStoreProject -by Rahul Rai
+# WebStoreProject
